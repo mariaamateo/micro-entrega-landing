@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@600&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 12.380em;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.255em;
+    font-weight: 400;
+}
+
+#parrafoA {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.590em;
+    font-weight: 400;
+}
